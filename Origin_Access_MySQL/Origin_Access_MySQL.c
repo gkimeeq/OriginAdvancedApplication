@@ -43,7 +43,7 @@ void Origin_Access_MySQL_Query() {  // 定义一个Origin C函数，编译通过
 
 /*
 
-演示Origin C导入MySQL的数据。
+演示Origin C导出工作表到MySQL的数据。
 
 在MySQL的test数据库下生成数据测试用的数据表的SQL语句：
 CREATE TABLE `test`.`city` (
