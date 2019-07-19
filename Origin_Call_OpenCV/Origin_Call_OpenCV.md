@@ -74,10 +74,10 @@ void Origin_Call_OpenCV() {  // 定义一个Origin C函数，编译通过可以�
 
 在Origin里显示的结果图为：
 
-![Origin里显示的结果图](https://img2018.cnblogs.com/blog/668287/201907/668287-20190719133150930-1123990336.png)
+![Origin里显示的结果图](result_image_window.png)
 
 导出的结果图为：
 
-![导出的结果图](https://img2018.cnblogs.com/blog/668287/201907/668287-20190719133230633-1711156549.png)
+![导出的结果图](result.png)
 
 源码可于github下载：[https://github.com/gkimeeq/OriginAdvancedApplication](https://github.com/gkimeeq/OriginAdvancedApplication)。
